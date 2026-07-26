@@ -58,7 +58,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=SayanBanik20&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=SuraviHaldar20&theme=tokyonight"/>
 </p>
 
 ---
@@ -70,7 +70,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SayanBanik20/SayanBanik20/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/SayanBanik20/SuraviHaldar20/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
