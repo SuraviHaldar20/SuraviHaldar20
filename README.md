@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suravi Banik</h1>
+<h1 align="center">Hi 👋, I'm Suravi Haldar</h1>
 <h3 align="center">AI/ML Enthusiast • Full Stack Developer • Competitive Programmer • Hackathon Builder</h3>
 
 <p align="center">
